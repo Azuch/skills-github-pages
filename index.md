@@ -1,4 +1,4 @@
 ---
-Azuch's Blog: Welcome, friend
+title: Welcome, friend
 ---
 
